@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+height: 55px;
+width: 100%;
+background:#4e86df;
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: white;
+margin-right: 113px;
+    margin-left: 61px;
+}
+.nav-search{
+    margin-top: -3px;
+}
+.nav-search input{
+    height: 35px;
+    width: 533px;
+    border-radius: 2px;
+    border: none;
+    padding: 0px 13px;
+}
+.login-btn{
+    margin-top: -4px;
+}
+.login-btn button{
+    border: none;
+    padding: 6px 35px;
+    border-radius: 2px;
+    color: #4e86df;
+    font-size: 16px
+}
+.seller{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: -3px;
+}
+.more{
+    margin-top: -3px;
+}
+#select{
+    border: none;
+    background-color: #4e86df;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+.cart{
+    margin-top: -3px;
+}
+.cart span{
+    font-size: 17px;
+    font-weight: 500;
+}
+#sch-icon{
+z-index: 999;
+margin: 0px -24px;
+}
+.logo{
+
+}
+.logo img{
+margin: 8px 0px;
+}
+.session{
+display: flex;
+justify-content: space-evenly;
+margin-top: 21px;
+}
+.sessionbar{
+
+}
+#fashion{
+    border: none;
+    background-color: white
+}
